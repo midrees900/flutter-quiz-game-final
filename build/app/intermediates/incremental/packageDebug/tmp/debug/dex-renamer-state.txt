@@ -1,0 +1,4 @@
+#Wed Feb 01 21:23:20 PKT 2023
+base.0=C\:\\Users\\M.Idrees\\StudioProjects\\quizeapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
